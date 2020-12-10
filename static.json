@@ -9,10 +9,15 @@
 		"Access-Control-Allow-Origin": "*",
 		"Content-Type": "text/plain; charset=UTF-8"
 		},
-		"/sample/": {
+	        "/promise/": {
 		"X-Author": "RandiSPB",
 		"Access-Control-Allow-Origin": "*",
 		"Content-Type": "text/plain"
+		},
+		"/fetch/": {
+		"X-Author": "RandiSPB",
+		"Access-Control-Allow-Origin": "*",
+		"Content-Type": "text/html"
 		}
 	}
 }
